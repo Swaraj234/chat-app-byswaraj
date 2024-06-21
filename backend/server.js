@@ -9,7 +9,7 @@ import userRoutes from "./routes/user.routes.js";
 import { app,server} from "./socket/socket.js";
 
 
-import connectToMongoDB from "./db/connectToMongoDb.js";
+import connectToMongoDB from "./db/connectToMongoDB.js";
 
 
 
